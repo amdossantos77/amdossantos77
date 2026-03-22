@@ -1,37 +1,68 @@
-## Hey there! 👋  
+# Hi, I'm Amarildo 👋
 
-Eu sou **Amarildo**, Engenheiro de Software e estudante da 42 School.
+Backend Engineer in training · Systems thinker · 42 School Luanda
 
-Eu construo sistemas, resolvo problemas complexos e transformo ideias em código funcional.
+I build backend systems with a focus on reliability, performance, and clean design.
+My foundation in C and C++ gives me a strong mental model of how computers work at a low level — I apply that thinking to everything I build.
 
-Se um desafio aparece, as chances são grandes de eu estudar até dominar e entregar.
-
-Minha stack principal é **C, C++, Python, Node**.  
-Tenho uma mentalidade forte de **baixo nível, arquitetura e sistemas**, e desenvolvi uma grande paixão por **DevOps** depois de trabalhar no projeto **Inception**.
-
-Minhas principais qualidades são **comunicação clara**, **criatividade**, **trabalho em equipe** e uma **curva de aprendizado extremamente rápida**.
-
-Tenho vários projetos que representam minha evolução, mas o que mais marcou minha jornada foi o **Inception** — foi ali que comecei a enxergar infraestrutura e engenharia de software com outra maturidade.
-
-Já construí diversos projetos ao longo da minha jornada na 42, e cada um deles foi pensado para entender profundamente como as coisas funcionam por dentro.
-
-Se você quiser acompanhar minha evolução e conteúdos sobre tecnologia, compartilho tudo no meu canal:
-
-👉 **YouTube:**  
-https://www.youtube.com/@amdossantos77
+Currently deepening my knowledge of Java, distributed systems, and cloud infrastructure, working towards building backend systems at scale.
 
 ---
 
-### Fun Facts:
+## Tech stack
 
-- 🐶 Tenho um Pitbull  
-- ☕ Não gosto de café  
-- ⚔️ *Black Clover* é meu anime favorito  
-- 🎤 Hobbies: freestyle, kickboxing e football  
+**Foundation**
 
-## Analytics
+![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-555555?style=flat&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-555555?style=flat&logo=gnubash&logoColor=white)
 
+**Currently focused on**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarildodossantos00&theme=merko)
+![Python](https://img.shields.io/badge/Python-1D6FA5?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1D6FA5?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1D6FA5?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1D6FA5?style=flat&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1D6FA5?style=flat)
+![SQL](https://img.shields.io/badge/SQL-1D6FA5?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D6FA5?style=flat&logo=docker&logoColor=white)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amarildodossantos00&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Exploring**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-BA7517?style=flat&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-BA7517?style=flat&logo=googlecloud&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-BA7517?style=flat)
+
+---
+
+## Projects
+
+### Inception
+Docker-based infrastructure project built from scratch at 42 School.
+Set up a full production-like environment with Nginx, WordPress, and MariaDB using only custom Dockerfiles — no pre-built images.
+Deepened my understanding of containerisation, networking, volumes, and system administration.
+
+`Docker` `Nginx` `MariaDB` `WordPress` `Linux` `Shell`
+
+### REST API — Subscription Service *(in progress)*
+A fully functional REST API built with Java and Spring Boot.
+Features: JWT authentication, MySQL database, automated tests with JUnit + Mockito, and Docker setup for local development.
+
+`Java` `Spring Boot` `MySQL` `JWT` `JUnit` `Docker`
+
+---
+
+## Background
+
+Student at **42 School Luanda** — a peer-to-peer, project-based engineering programme with no teachers and no lectures.
+Everything I know, I learned by building things, failing, and figuring it out.
+That's the only way I know how to learn.
+
+---
+
+## Connect
+
+- LinkedIn: linkedin.com/in/amdossantos77
+- YouTube: youtube.com/@amdossantos77 — documenting my learning journey
+- Location: Luanda, Angola

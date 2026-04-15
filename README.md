@@ -1,6 +1,6 @@
 # Hi, I'm Amarildo 👋
 
-Backend Engineer in training · Fullstack Developer · 42 School Luanda
+Fullstack Developer · Backend Engineer in training · 42 School Luanda
 
 I build fullstack systems with a strong focus on backend — reliability, 
 performance, and clean design. My foundation in C and C++ gives me a strong 

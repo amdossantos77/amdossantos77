@@ -1,6 +1,6 @@
 # Hi, I'm Amarildo 👋
 
-Software Enginner · Backend & Systems · 42 School Transcender
+Software Enginner · Backend & Systems · 42 School Transcender · Tutor 42 Luanda
 
 I build fullstack systems with a strong focus on backend — reliability, 
 performance, and clean design. My foundation in C and C++ gives me a strong 
